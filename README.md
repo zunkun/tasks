@@ -8,20 +8,20 @@
 ### Todo列表
 1. 创建todo事件
 2. 拖拽调整
-![todo](images/todo.png)
+![todo](images/todo.PNG)
 
 ### 任务看板
 1. 创建看板
 2. 看板拖拽
 
-![kanban](./images/kanban.png)
+![kanban](./images/kanban.PNG)
 
 ### 日历
 类似谷歌日历操作
 1. 任务创建
 2. 拖拽
 3. 分类
-![calendar](./images/calendar.png)
+![calendar](./images/calendar.PNG)
 
 ## 部署
 1. 本工具使用 [timeline](https://github.com/zunkun/timeline/server)作为服务，请优先部署
